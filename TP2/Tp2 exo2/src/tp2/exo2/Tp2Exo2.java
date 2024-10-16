@@ -4,6 +4,8 @@
  */
 package tp2.exo2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author ferre
