@@ -17,12 +17,17 @@ public class Exo1 {
      */
     public static void main(String[] args) {
     
-        int nbr1;
+    int nbr1;
     int nbr2;
     Scanner sc = new Scanner(System.in);
     nbr1 =sc.nextInt();
     nbr2= sc.nextInt();
-    System.out.println(nbr1+""+nbr2);
+    System.out.println(nbr1+nbr2+" voici la somme des deux nombre");
+    System.out.println(nbr1-nbr2+" voici la différence des deux nombre");
+    System.out.println(nbr1*nbr2+" Voici le rpoduit des deux nombre");
+    
+    System.out.println((nbr1/nbr2);
+    System.out.println(nbr1%nbr2);
     
     
              
