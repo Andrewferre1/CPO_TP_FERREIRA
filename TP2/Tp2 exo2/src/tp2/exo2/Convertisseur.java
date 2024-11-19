@@ -12,7 +12,7 @@ class Convertisseur {
 
     String nbConversions;
 
-    boolean CelciusVersKelvin(double nb) {
+   boolean CelciusVersKelvin(double nb) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
@@ -35,5 +35,4 @@ class Convertisseur {
     boolean FarenheitVersKelvin(double nb) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
-    
-}
+}  
